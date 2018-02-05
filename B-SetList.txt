@@ -96,7 +96,7 @@ Tera Mera Rishta
 Paani Da Rang
 ###########
 
-## Medley ###
+## Medley ### (C#m, B,A,E)
 Dil Sambhal Ja Zara
 Ilahi Mera Dil
 Kyu Aajkal Neend Kam
@@ -167,7 +167,6 @@ Chaiyyan Chaiyyan
 1 Kyu Chalti hai pavan
 2 Shyam Saveere Teri Yaadein aati hain
 3 Kabhi Aisa Lagta hai
-4 
 ##########################
 
 ******************************************************************************
